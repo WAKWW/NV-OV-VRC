@@ -1,0 +1,2 @@
+Modified for allowing to exploit unity engine layer assignation system and build assetbundles with layer values that cause buffer overflow on the target machines loading the render values and instructing them to unity and then to the engine renderer.
+
